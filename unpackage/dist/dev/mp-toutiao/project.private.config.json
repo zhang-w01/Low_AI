@@ -1,0 +1,42 @@
+{
+    "condition": {
+        "miniprogram": {
+            "current": 1705811417553,
+            "list": [
+                {
+                    "id": 1705903689957,
+                    "name": "pages/test/test",
+                    "pathName": "pages/test/test",
+                    "query": "",
+                    "scene": "990001",
+                    "launchFrom": "scan",
+                    "location": "qr_code",
+                    "mockUpdateType": "Noupdate"
+                },
+                {
+                    "id": 1705766065410,
+                    "name": "pages/login/login",
+                    "pathName": "pages/login/login",
+                    "query": "",
+                    "scene": "990001",
+                    "launchFrom": "scan",
+                    "location": "qr_code",
+                    "mockUpdateType": "Noupdate"
+                },
+                {
+                    "id": 1705811417553,
+                    "name": "pages/index/index",
+                    "pathName": "pages/index/index",
+                    "query": "",
+                    "scene": "990001",
+                    "launchFrom": "scan",
+                    "location": "qr_code",
+                    "mockUpdateType": "Noupdate"
+                }
+            ]
+        }
+    },
+    "setting": {
+        "urlCheck": false
+    }
+}

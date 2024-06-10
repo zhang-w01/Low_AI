@@ -1,0 +1,9 @@
+{
+  "name": "mgdb",
+  "dependencies": {
+    "mongodb": "^3.7.4"
+  },
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

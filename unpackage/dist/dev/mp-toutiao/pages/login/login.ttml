@@ -1,0 +1,1 @@
+<view><button data-event-opts="{{[['tap',[['sign',['$event']]]]]}}" bindtap="__e">注册</button></view>
